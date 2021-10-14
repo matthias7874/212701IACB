@@ -7,7 +7,7 @@
     <td>Matthias</td>
     <td>Piiri</td>
     <td>212701IACB</td>
-
+</table>
 <p>
 Teretulemast! Tegemist on minu esimese katsega kujundada lehekülg. Lisatud on lihtsasti mõistetav tabel, et ennast tutvustada.
 <p>
