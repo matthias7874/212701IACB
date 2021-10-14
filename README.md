@@ -13,4 +13,5 @@ Teretulemast! Tegemist on minu esimese katsega kujundada lehekülg. Lisatud on l
 <p>
  <img src="https://avatars.mds.yandex.net/i?id=67e9eb41c8983870df29d6704dcf7c43-4579607-images-thumbs&n=13">
 
+  
   <a href="https://taltech.ee/">TALTECH</a>
