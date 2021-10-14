@@ -2,7 +2,6 @@
 <br>
   <a href="https://taltech.ee/">TALTECH</a>
   <br>
-  <br>
 <h1>Teretulemast!</h1> 
  <p>Tegemist on minu esimese katsega kujundada lehekülg. Lisatud on lihtsasti mõistetav tabel, et ennast tutvustada.<p>
 <table>
@@ -14,4 +13,4 @@
     <td>Matthias</td>
     <td>Piiri</td>
     <td>212701IACB</td>
-</table>
+  </table>
